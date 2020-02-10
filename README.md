@@ -23,8 +23,8 @@
     * Väljundi filtreerimine ja suunamine
 #### 10.02 - 14.02
 ##### Praktilised tööd - 4 tundi
-  * :raised_hand: Linux failisüsteemi struktuur ja eriotstarbega kataloogid
-  * :raised_hand: Otsing failisüsteemis ja väljundis
+  * :white_check_mark: Linux failisüsteemi struktuur ja eriotstarbega kataloogid
+  * :white_check_mark: Otsing failisüsteemis ja väljundis
 ##### Iseseisev töö - 3 tundi
   * :house: Otsing failisüsteemis
 #### 17.02 - 21.02
