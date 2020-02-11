@@ -26,6 +26,7 @@ Toetu [antud materjali leheküljele 25-27](https://drive.google.com/file/d/1l1UD
 2) loo `yl11` kaustas järgmiste nimedega failid:  `siga`, `lehm`, `lammas`, `kana`, `kukk`, `kass`, `hiireke`, `koer`, `part`, `hobune`, `.karbes`, `.sipelgas`
 
 Kasutades `ls` käsu ja metamärkide kombinatsioonid:
+
 3) Näita kõik failid, mis algavad `l`-ga
 4) Näita kõik failid, mis algavad `k`-ga
 5) Näita kõik failid, mis lõpevad `s`-ga
@@ -44,8 +45,9 @@ Toetu [antud materjali leheküljele 25-27](https://drive.google.com/file/d/1l1UD
 2) loo `yl12` kaustas järgmiste nimedega failid:  `fail1`, `fail2`, `fail3`, `fail4`, `fail10`, `fail12`, `Ptk1.txt`, `ptk2.txt`, `ptk3`, `Ptk4`, `.login`
 
 Kasutades sobiliku käsu ja metamärkide kombinatsioonid:
+
 3) Näita nende hulgas kõik failid, mille nimed algavad `f`-ga
-4) loo yl10 kataloogis kaust nimega `kataloog`
+4) loo `yl12` kataloogis kaust nimega `kataloog`
 4) Näita nende hulgas kõik failid, mille nimed lõpevad täpselt ühe numbriga. Proovi ühe käsuga metamärkide abil kopeerida kõik need failid `kataloog` kausta sisse. 
 5) Näita nende hulgas kõik failid, mille nimed lõpevad täpselt kahe numbriga. Proovi ühe käsuga metamärkide abil liigutada kõik need failid `kataloog` kausta sisse.
 6) Näita nende hulgas kõik failid, mille nimed algavad suure või väikese p-ga. Proovi ühe käsuga metamärkide abil kopeerida kõik need failid `kataloog` kausta sisse.
