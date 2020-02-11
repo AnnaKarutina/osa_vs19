@@ -121,7 +121,7 @@ grep
 Toetu [antud materjali leheküljedele 247-264](https://drive.google.com/file/d/1l1UDSeOPP4GxEyRYEzLorM8NyskDo3ig/view?usp=sharing).
 
 1) loo `osa` kataloogis kaust nimega `yl16`
-2) lae uuesti alla antud kataloogi sisse fail [http://anna.ikt.khk.ee/anna.karutina/osa/database](http://anna.ikt.khk.ee/anna.karutina/osa/database)
+2) lae uuesti alla antud kataloogi sisse fail [http://anna.ikt.khk.ee/anna.karutina/osa/datafile](http://anna.ikt.khk.ee/anna.karutina/osa/datafile)
 1) Leia read, mis algavad `south` sõnaosaga, väljasta lisaks reale ka `rea number`
 2) Leia read, kus `pat` võib olla kas suurte või väikeste tähtedega kirjas
 3) Leia read, kus ei esine `Suan Chin`
