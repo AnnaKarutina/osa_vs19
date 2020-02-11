@@ -93,7 +93,7 @@ wget, grep
 Toetu [antud materjali leheküljedele 205 ja 247-264](https://drive.google.com/file/d/1l1UDSeOPP4GxEyRYEzLorM8NyskDo3ig/view?usp=sharing).
 
 1) loo `osa` kataloogis kaust nimega `yl15`
-2) lae alla antud kataloogi sisse fail [http://anna.ikt.khk.ee/anna.karutina/osa/database](http://anna.ikt.khk.ee/anna.karutina/osa/database)
+2) lae alla antud kataloogi sisse fail [http://anna.ikt.khk.ee/anna.karutina/osa/datafile](http://anna.ikt.khk.ee/anna.karutina/osa/datafile)
 
 Antud faili sisu struktuur:
 
