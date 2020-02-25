@@ -32,10 +32,10 @@
   * :house: Otsing väljundis
 #### 24.02 - 28.02
 ##### Praktilised tööd - 4 tundi
-  * :raised_hand: Arhiveerimine ja pakkimine
-  * :raised_hand: Süsteemi tarkvara uuendamine, paigaldamine, konfigureerimine, Logide uurimine ja probleemide likvideerimine
+  * :white_check_mark: [Süsteemi tarkvara uuendamine, paigaldamine, konfigureerimine, Logide uurimine ja probleemide likvideerimine](https://drive.google.com/open?id=15AXxNHacEII2Ab-K11NiplXFeaKON84hfIDMMwLNPOk)
 #### 02.03 - 07.03
 ##### Praktilised tööd - 8 tundi
+  * :raised_hand: Arhiveerimine ja pakkimine
   * :raised_hand: git käsurealt
   * :raised_hand: git käsurealt
 #### 09.03 - 13.03
