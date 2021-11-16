@@ -21,6 +21,7 @@
   * :white_check_mark: 04.02 
     * Manipulatsioonid failidega ja kaustadega
     * Väljundi filtreerimine ja suunamine
+  * [ülesanded lahendamiseks](https://github.com/AnnaKarutina/osa_vs19/tree/master/04.02)
 #### 10.02 - 14.02
 ##### Praktilised tööd - 4 tundi
   * :white_check_mark: Linux failisüsteemi struktuur ja eriotstarbega kataloogid
