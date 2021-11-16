@@ -26,6 +26,7 @@
 ##### Praktilised tööd - 4 tundi
   * :white_check_mark: Linux failisüsteemi struktuur ja eriotstarbega kataloogid
   * :white_check_mark: Otsing failisüsteemis ja väljundis
+  * [ülesanded lahendamiseks](https://github.com/AnnaKarutina/osa_vs19/tree/master/11.02)
 ##### Iseseisev töö - 3 tundi
   * :house: Otsing failisüsteemis
 #### 17.02 - 21.02
